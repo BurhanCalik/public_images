@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Placeholder image">
+  <rect width="1200" height="800" fill="#e8efe9"/>
+  <rect x="120" y="120" width="960" height="560" rx="24" fill="#d5e4d9" stroke="#9bb8a3" stroke-width="6"/>
+  <g fill="#5f7f69" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="360" font-size="54" font-weight="700">Dentexa Istanbul</text>
+    <text x="600" y="430" font-size="32">Gorsel Yuklenemedi</text>
+  </g>
+</svg>
